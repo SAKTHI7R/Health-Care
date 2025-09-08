@@ -85,79 +85,67 @@
 # 📸 App Screenshots
 
 ## 🏠 Home & Dashboard
-![Home Features](DOCS/SCREENSHOTS/HOME_FEATURES_B_D.jpg)
-![Home Features 2](DOCS/SCREENSHOTS/HOME_FEATURES_D.jpg)
-![Home Page](DOCS/SCREENSHOTS/HOME_PAGE_B_D.jpg)
-![Home Page 2](DOCS/SCREENSHOTS/HOME_PAGE_H_D.jpg)
-![Home Page Variant](DOCS/SCREENSHOTS/HOME_PAGE_V_D.jpg)
-![Home Page Variant 2](DOCS/SCREENSHOTS/HOME_PAGE_V_L.jpg)
-![Home Appoint Notification](DOCS/SCREENSHOTS/HOME_PAGE_APPOINT_NOTI.jpg)
-![Home Appoint Noti 2](DOCS/SCREENSHOTS/HOME_PAGE_APPOINT_NOTI_1.jpg)
+| ![Home Features](DOCS/SCREENSHOTS/HOME_PAGE_V_D.jpg)  | ![Home Features 2](DOCS/SCREENSHOTS/HOME_PAGE_B_D.jpg) | ![Home Page](DOCS/SCREENSHOTS/HOME_FEATURES_D.jpg) |
+|---|---|---|
+| ![Home Page 2](DOCS/SCREENSHOTS/HOME_FEATURES_B_D.jpg)| ![Home Page Variant](DOCS/SCREENSHOTS/HOME_PAGE_H_D.jpg) | ![Home Page Variant 2](DOCS/SCREENSHOTS/HOME_PAGE_V_L.jpg) |
+| ![Home Appoint Noti](DOCS/SCREENSHOTS/HOME_PAGE_APPOINT_NOTI.jpg) | ![Home Appoint Noti 2](DOCS/SCREENSHOTS/HOME_PAGE_APPOINT_NOTI_1.jpg) | ![Home Page Variant](DOCS/SCREENSHOTS/HOME_PAGE_H_D.jpg) |
 
 ---
 
 ## ❤️ Heart Rate & Fitness
-![Heart Rate](DOCS/SCREENSHOTS/HEART_RATE.jpg)
-![Heart Rate 2](DOCS/SCREENSHOTS/HEART_RATE_1.jpg)
-![Fitness Tracking](DOCS/SCREENSHOTS/FITNESS_TRACKING.jpg)
-![Fitness Tracking 2](DOCS/SCREENSHOTS/FITNESS_TRACKING_B.jpg)
+| ![Heart Rate](DOCS/SCREENSHOTS/HEART_RATE.jpg) | ![Heart Rate 2](DOCS/SCREENSHOTS/HEART_RATE_1.jpg) | ![Fitness Tracking](DOCS/SCREENSHOTS/FITNESS_TRACKING.jpg) |
+|---|---|---|
+| ![Fitness Tracking 2](DOCS/SCREENSHOTS/FITNESSS_TRACKING_B.jpg) | | |
 
 ---
 
 ## 💧 Hydration Tracker
-![Water Tracker](DOCS/SCREENSHOTS/WATER_TRACKER.jpg)
-![Water Tracker 2](DOCS/SCREENSHOTS/WATER_TRACKER_1.jpg)
+| ![Water Tracker](DOCS/SCREENSHOTS/WATER_TRACKER.jpg) | ![Water Tracker 2](DOCS/SCREENSHOTS/WATER_TRACKER_1.jpg) |
+|---|---|
 
 ---
 
 ## 🌸 Menstrual Tracking
-![Menstrual Tracker](DOCS/SCREENSHOTS/MENSTRUAL_TRACKER.jpg)
-![Menstrual Tracker 2](DOCS/SCREENSHOTS/MENSTRUAL_TRACKER_1.jpg)
-![Menstrual Notification](DOCS/SCREENSHOTS/MENSTRUAL_PEDICATION_NOTIFICATION.jpg)
+| ![Menstrual Tracker](DOCS/SCREENSHOTS/MENSTRUAL_TRACKER.jpg) | ![Menstrual Tracker 2](DOCS/SCREENSHOTS/MENSTRUAL_TRACKER_1.jpg) | ![Menstrual Notification](DOCS/SCREENSHOTS/MENSTRUAL_PEDICATION_NOTIFICATION.jpg) |
+|---|---|---|
 
 ---
 
 ## 💊 Medication
-![Medication](DOCS/SCREENSHOTS/MEDICATION.jpg)
-![Medication 2](DOCS/SCREENSHOTS/MEDICATION2.jpg)
-![Medication 3](DOCS/SCREENSHOTS/MEDICATION3.jpg)
-![Medication 4](DOCS/SCREENSHOTS/MEDICATION4.jpg)
-![Medication 5](DOCS/SCREENSHOTS/MEDICATION5.jpg)
+| ![Medication](DOCS/SCREENSHOTS/MEDICATION.jpg) | ![Medication 2](DOCS/SCREENSHOTS/MEDICATION2.jpg) | ![Medication 3](DOCS/SCREENSHOTS/MEDICATION3.jpg) |
+|---|---|---|
+| ![Medication 4](DOCS/SCREENSHOTS/MEDICATION4.jpg) | ![Medication 5](DOCS/SCREENSHOTS/MEDICATION5.jpg) | |
 
 ---
 
 ## 🧑‍⚕️ Doctor & Appointments
-![Doctor Appointment](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT.jpg)
-![Doctor Appointment 1](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_1.jpg)
-![Doctor Appointment 2](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_2.jpg)
-![Doctor Appointment 3](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_3.jpg)
-![Find Doctor](DOCS/SCREENSHOTS/FIND_DOCTOR.jpg)
-![Find Doctor 1](DOCS/SCREENSHOTS/FIND_DOCTOR_1.jpg)
+| ![Doctor Appointment](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT.jpg) | ![Doctor Appointment 1](DOCS/SCREENSHOTS/DOCTOR_APPOINMENT_1.jpg) | ![Doctor Appointment 2](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_2.jpg) |
+|---|---|---|
+| ![Doctor Appointment 3](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_3.jpg) | ![Find Doctor](DOCS/SCREENSHOTS/FIND_DOCTOR.jpg) | ![Find Doctor 1](DOCS/SCREENSHOTS/FIND_DOCTOR_1.jpg) |
 
 ---
 
 ## 🧍 Profile & Login
-![Login](DOCS/SCREENSHOTS/LOGIN_PAGE.jpg)
-![Profile](DOCS/SCREENSHOTS/PROFILE_PAGE.jpg)
-![Profile 1](DOCS/SCREENSHOTS/PROFILE_PAGE_1.jpg)
+| ![Login](DOCS/SCREENSHOTS/LOGIN_PAGE.jpg) | ![Profile](DOCS/SCREENSHOTS/PROFILE_PAGE.jpg) | ![Profile 1](DOCS/SCREENSHOTS/PROFILE_PAGE_1.jpg) |
+|---|---|---|
 
 ---
 
 ## 👣 Step Tracker
-![Step Tracker](DOCS/SCREENSHOTS/STEP_TRACKER.jpg)
-![Step Tracker 1](DOCS/SCREENSHOTS/STEP_TRACKER_1.jpg)
-![Step Tracker 2](DOCS/SCREENSHOTS/STEP_TRACKER_2.jpg)
+| ![Step Tracker](DOCS/SCREENSHOTS/STEP_TRACKER.jpg) | ![Step Tracker 1](DOCS/SCREENSHOTS/STEP_TRACKER_1.jpg) | ![Step Tracker 2](DOCS/SCREENSHOTS/STEP_TRACKER_2.jpg) |
+|---|---|---|
 
 ---
 
 ## 🏥 Emergency & SOS
-![Hospital Locator](DOCS/SCREENSHOTS/HOSPITAL_LOCATOR.jpg)
-![SOS](DOCS/SCREENSHOTS/SOS.jpg)
+| ![Hospital Locator](DOCS/SCREENSHOTS/HOSPITAL_LOCATOR.jpg) | ![SOS](DOCS/SCREENSHOTS/SOS.jpg) |
+|---|---|
 
 ---
 
 ## 🔔 Notifications
-![Off App Notification](DOCS/SCREENSHOTS/OFF_APP_NOTIFICATION.jpg)
+| ![Off App Notification](DOCS/SCREENSHOTS/OFF_APP_NOTIFICATION.jpg) |
+|---|
 
 ---
 
