@@ -84,45 +84,80 @@
 ---
 # 📸 App Screenshots
 
-### 🏠 Dynamic Home Dashboard
-Greeting + Health Summary  
-![Home Dashboard](screenshots/home_dashboard.png)
+## 🏠 Home & Dashboard
+![Home Features](DOCS/SCREENSHOTS/HOME_FEATURES_B_D.JPG)
+![Home Features 2](DOCS/SCREENSHOTS/HOME_FEATURES_D.JPG)
+![Home Page](DOCS/SCREENSHOTS/HOME_PAGE_B_D.JPG)
+![Home Page 2](DOCS/SCREENSHOTS/HOME_PAGE_H_D.JPG)
+![Home Page Variant](DOCS/SCREENSHOTS/HOME_PAGE_V_D.JPG)
+![Home Page Variant 2](DOCS/SCREENSHOTS/HOME_PAGE_V_L.JPG)
+![Home Appoint Notification](DOCS/SCREENSHOTS/HOME_PAGE_APPOINT_NOTI.JPG)
+![Home Appoint Noti 2](DOCS/SCREENSHOTS/HOME_PAGE_APPOINT_NOTI_1.JPG)
 
+---
 
+## ❤️ Heart Rate & Fitness
+![Heart Rate](DOCS/SCREENSHOTS/HEART_RATE.JPG)
+![Heart Rate 2](DOCS/SCREENSHOTS/HEART_RATE_1.JPG)
+![Fitness Tracking](DOCS/SCREENSHOTS/FITNESS_TRACKING.JPG)
+![Fitness Tracking 2](DOCS/SCREENSHOTS/FITNESS_TRACKING_B.JPG)
 
-### ❤️ Heart Rate
-Live BPM graph with real-time camera detection  
-![Heart Rate Graph](screenshots/heart_rate.png)
+---
 
+## 💧 Hydration Tracker
+![Water Tracker](DOCS/SCREENSHOTS/WATER_TRACKER.JPG)
+![Water Tracker 2](DOCS/SCREENSHOTS/WATER_TRACKER_1.JPG)
 
+---
 
-### 💧 Hydration Tracker
-Progress + interactive reminders  
-![Hydration Progress](screenshots/hydration.png)
+## 🌸 Menstrual Tracking
+![Menstrual Tracker](DOCS/SCREENSHOTS/MENSTRUAL_TRACKER.JPG)
+![Menstrual Tracker 2](DOCS/SCREENSHOTS/MENSTRUAL_TRACKER_1.JPG)
+![Menstrual Notification](DOCS/SCREENSHOTS/MENSTRUAL_PEDICATION_NOTIFICATION.JPG)
 
+---
 
+## 💊 Medication
+![Medication](DOCS/SCREENSHOTS/MEDICATION.JPG)
+![Medication 2](DOCS/SCREENSHOTS/MEDICATION2.JPG)
+![Medication 3](DOCS/SCREENSHOTS/MEDICATION3.JPG)
+![Medication 4](DOCS/SCREENSHOTS/MEDICATION4.JPG)
+![Medication 5](DOCS/SCREENSHOTS/MEDICATION5.JPG)
 
-### 🌸 Menstrual Calendar
-Cycle predictions & daily stages  
-![Menstrual Calendar](screenshots/menstrual.png)
+---
 
+## 🧑‍⚕️ Doctor & Appointments
+![Doctor Appointment](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT.JPG)
+![Doctor Appointment 1](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_1.JPG)
+![Doctor Appointment 2](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_2.JPG)
+![Doctor Appointment 3](DOCS/SCREENSHOTS/DOCTOR_APPOINTMENT_3.JPG)
+![Find Doctor](DOCS/SCREENSHOTS/FIND_DOCTOR.JPG)
+![Find Doctor 1](DOCS/SCREENSHOTS/FIND_DOCTOR_1.JPG)
 
+---
 
-### 💊 Medication Timeline
-Daily schedule with alerts  
-![Medication Timeline](screenshots/medication.png)
+## 🧍 Profile & Login
+![Login](DOCS/SCREENSHOTS/LOGIN_PAGE.JPG)
+![Profile](DOCS/SCREENSHOTS/PROFILE_PAGE.JPG)
+![Profile 1](DOCS/SCREENSHOTS/PROFILE_PAGE_1.JPG)
 
+---
 
+## 👣 Step Tracker
+![Step Tracker](DOCS/SCREENSHOTS/STEP_TRACKER.JPG)
+![Step Tracker 1](DOCS/SCREENSHOTS/STEP_TRACKER_1.JPG)
+![Step Tracker 2](DOCS/SCREENSHOTS/STEP_TRACKER_2.JPG)
 
-### ⛅ Weather Banner
-Fetched via **wttr.in**  
-![Weather Banner](screenshots/weather.png)
+---
 
+## 🏥 Emergency & SOS
+![Hospital Locator](DOCS/SCREENSHOTS/HOSPITAL_LOCATOR.JPG)
+![SOS](DOCS/SCREENSHOTS/SOS.JPG)
 
+---
 
-### 🏥 SOS & Nearby Hospitals
-**OpenStreetMap Integration** with hospital locator  
-![Nearby Hospitals](screenshots/hospitals.png)
+## 🔔 Notifications
+![Off App Notification](DOCS/SCREENSHOTS/OFF_APP_NOTIFICATION.JPG)
 
 ---
 
