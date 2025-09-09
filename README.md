@@ -64,13 +64,13 @@
   - **Data** → Repositories, models  
 
 - **State Management**  
-  - `flutter_bloc`, `hydrated_bloc`, `provider`  
+  - `flutter_bloc`, `provider`  
 
 - **Navigation**  
   - `go_router` with guards  
 
 - **Offline Support**  
-  - Local caching via `shared_preferences` or SQLite  
+  - Local caching via `shared_preferences` 
   - Sync with Firestore when online 
 
 ---
